@@ -19,8 +19,8 @@ I am a passionate software engineer with a decade of experience in all aspects o
 </br>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkumarravichandran&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumarravichandran&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nl-santhosh-kumar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nl-santhosh-kumar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
